@@ -7,19 +7,14 @@
 <p>I also love teaching and design. I have been an Instructional Designer since 2010, completed a doctoral degree (Ph.D.) in Instructional Design in 2014, and have experience with a wide array of technology, teaching, and design and development approaches. </p>
 
 <p>My first interaction with code was through developing an HTML webpage from a book in the early 2000s. Naturally, it was hideous, but it was also amazing to know that I could ask the computer to make things from pixels. After that, I used HTML and simple markup in my design work, publications, and so on throughout the years.</p> 
-<p>In 2019, after a decade in higher education teaching and practicing Instructional Design, I decided it was time to commit to learning code.</p>
+<p>In 2019, after a decade in higher education teaching and practicing Instructional Design, I decided it was time to commit to learning code more formally.</p>
 
-<p>While I am a budding programmer, I am a very experienced Instructional Designer, speaker, author of numerous research publications, professor, course designer, and more. I am also the father of four amazing sons, and husband to the most amazing woman on the planet.</p>
-<p>You can find my portfolio at www.fredwbaker.com.</p>
-
+<p>While I am growing into new industries as a Technical Writer, I am a very experienced Instructional Designer with extensive experience in design, writing, consulting, and more. I am also the father of four amazing sons, and husband to the most amazing woman on the planet.</p>
 
 <h2>Technologies</h2>
 
-* Front End Development
+  * Markdown
   * HTML
   * CSS
   * Javascript
-  * Bootstrap 4
-  * AJAX
-  * React
 
