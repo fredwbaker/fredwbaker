@@ -2,14 +2,15 @@
 
 
 <h2>Introduction</h2> 
-<p>I am fascinated by technology. I always have been. Whether ogling futuristic tech in vintage dystopian thrillers, imagining the world as one big immersive code base prompted by The Matrix movies, or realizing the potential of technology enhanced humankind that emerges everyday in our world, technology is one of the most powerful, unpredictable, and impactful forces humankind has ever known.</p>
+<p>Techology has always been deeply fascinating. Whether standing in awe of it's influence in possible utopian wonderlands or dystopian thrillers, considering the world as an immersive code base prompted as seen in the Matrix, or reflecting on its drastic real world evolution just during my own lifetime, technology is one of the most powerful, unpredictable, and impactful forces humankind has ever known.</p>
 
-<p>I also love teaching and design. I have been an Instructional Designer since 2010, completed a doctoral degree (Ph.D.) in Instructional Design in 2014, and have experience with a wide array of technology, teaching, and design and development approaches. </p>
+<p>I love designing digital systems that solve real world business challenges and promote workflow efficiency and productivity. This is the main focus of my work as a freelance consultant and contractor in the workflow & automation and project management spaces. In a prior life, I was in higher education for 14 years serving as an Instructional Systems Designer, professor, and administrator. In that time I completed a doctoral degree (Ph.D.) in Instructional Design and gained experience with a wide array of technology, teaching, and design and development approaches.</p>
 
-<p>My first interaction with code was through developing an HTML webpage from a book in the early 2000s. Naturally, it was hideous, but it was also amazing to know that I could ask the computer to make things from pixels. After that, I used HTML and simple markup in my design work, publications, and so on throughout the years.</p> 
-<p>In 2019, after a decade in higher education teaching and practicing Instructional Design, I decided it was time to commit to learning code more formally.</p>
+<p>My first interaction with code was through developing an HTML webpage from a book in the early 2000s. Naturally, the output was hideous (and inspired by myspace aesthetics at the time) and I was soon on to other things, but the idea of being able to author some of the technology that had such a powerful impact on daily life continued to resonate strongly throughout the years.</p> 
 
-<p>While I am growing into new industries as a Project Manager, I am a very experienced Instructional Designer with extensive experience in design, writing, consulting, and more. I am also the father of four amazing sons, and husband to the most amazing woman on the planet.</p>
+<p>In 2019 I began a yearlong stint focused on learning front end web developmnent more formally focused on foundational front end: HTML, CSS, & Javascript. I learned enough to build a website from scratch and get my head around the core of OOP languages. From there, I took a deep dive into workflow and automation consulting leveraging monday.com, and now, in 2024, I'm working to dive deeper into Python for automation.</p>
+
+<p>I'm always learning new things, and have deep experience in several industries as a Consultant, Project Manager, and Instructional Systems Designer. I am also the father of four amazing sons, and husband to the most amazing woman on the planet.</p>
 
 <h2>Technologies</h2>
 
@@ -17,5 +18,6 @@
   * HTML
   * CSS
   * Javascript (basic)
+  * Python (learning)
   
 
